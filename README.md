@@ -54,10 +54,3 @@ for i from 0 to last index:
 | Syntax | Caught by compiler before execution |
 | Logical | Wrong output despite running — fixed via debugging |
 | Runtime | Crash during execution (e.g. array out of bounds, invalid input) |
-
-## Course Info
-
-**Unit:** H/618/7388 — Multi Programming Paradigms with Algorithms  
-**Student:** Qais Muayad Zuhdi Barhoum  
-**Submitted to:** Motasem Sammarah  
-**Semester:** Spring 2025
